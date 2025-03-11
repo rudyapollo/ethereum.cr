@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="docs/logo/Vector.svg" alt="Logo">
-</p>
-
-This is the official website of Ethereum Costa Rica that aims to strengthen the dissemination and exchange of knowledge about Ethereum and Blockchain in Costa Rica.
-
 ## Description
 
 Welcome to the digital heart of the Ethereum Costa Rica community. This website is the gateway to a universe of knowledge, collaboration and exciting events related to Ethereum and blockchain technology.
