@@ -2,10 +2,6 @@
   <img src="docs/logo/Vector.svg" alt="Logo">
 </p>
 
-[![Telegram](https://img.shields.io/badge/Our_community-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/EthereumCR) [![X (Twitter)](<https://img.shields.io/badge/Follow_us-X_(Twitter)-black?style=for-the-badge&logo=X>)](https://twitter.com/EthereumCR) [![Instagram](https://img.shields.io/badge/Follow_us-Instagram-purple?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ethereumcr/) [![Linkedin](https://img.shields.io/badge/Follow_us-Linkedin-darkblue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/company/ethereum-costa-rica/) ![GitHub followers](https://img.shields.io/github/followers/Ethereum-Costa-Rica?style=for-the-badge&color=red) ![GitHub forks](https://img.shields.io/github/forks/Ethereum-Costa-Rica/ethereum.cr?style=for-the-badge&color=red) ![GitHub Repo stars](https://img.shields.io/github/stars/Ethereum-Costa-Rica/ethereum.cr?style=for-the-badge&color=red) ![GitHub contributors](https://img.shields.io/github/contributors/Ethereum-Costa-Rica/ethereum.cr?style=for-the-badge&color=red)
-
-## Ethereum Costa Rica
-
 This is the official website of Ethereum Costa Rica that aims to strengthen the dissemination and exchange of knowledge about Ethereum and Blockchain in Costa Rica.
 
 ## Description
@@ -74,17 +70,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## License
 
 This project is licensed under the [MIT](https://github.com/Ethereum-Costa-Rica/ethereum.cr/blob/main/LICENSE) license.
-
-## Contributors ✨
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aguzmant103"><img src="https://avatars.githubusercontent.com/u/67167307?v=4" width="100px;" alt="Andy Guzman"/><br /><sub><b>aguzmant103 </b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JustinCast"><img src="https://avatars.githubusercontent.com/u/17890146?v=4" width="100px;" alt="Justin Castillo"/><br /><sub><b>JustinCast </b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Coderoostr"><img src="https://avatars.githubusercontent.com/u/103231131?v=4" width="100px;" alt="Marcos González"/><br /><sub><b>Coderoostr </b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/brolag"><img src="https://avatars.githubusercontent.com/u/1393385?v=4" width="100px;" alt="Alfredo Bonilla"/><br /><sub><b>brolag </b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Gerson2102"><img src="https://avatars.githubusercontent.com/u/71728860?v=4" width="100px;" alt="Gerson Loaiza"/><br /><sub><b>Gerson2102 </b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
